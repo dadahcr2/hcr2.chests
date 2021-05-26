@@ -740,45 +740,45 @@
 737 | 6 | adv1 | 18 | 3 |  |  | 3400 | 4750 | 2
 738 | 7 | adv2 | 32 | 2 |  |  | 4800 |  | 2
 739 |  | vid | 20 | 2 |  |  | 1250 |  | 1
-740 | Deflorator | legendary | 124 |  | 15 | 3 | 23500 |  | 
-741 | Deflorator | legendary | 131 | 29 | 12 | 3 | 27000 |  | 
-742 | Deflorator | legendary | 135 |  | 15 | 3 | 28000 |  | 
-743 | Deflorator | legendary | 131 |  | 12 | 3 | 24500 |  | 
-744 | Deflorator | legendary | 128 |  | 12 | 3 | 28500 |  | 
-745 | Deflorator | legendary | 135 | 29 | 12 | 3 | 26000 |  | 
-746 | Deflorator | legendary | 113 |  | 12 | 3 | 29500 |  | 
-747 | Deflorator | legendary | 126 |  | 12 | 3 | 32000 |  | 
-748 | Deflorator | legendary | 133 |  | 12 | 3 | 25000 |  | 
-749 | Deflorator | legendary | 117 | 24 | 12 | 3 | 28000 |  | 
-750 | Deflorator | legendary | 124 |  | 15 | 3 | 22500 |  | 
-751 | Deflorator | legendary | 115 | 27 | 12 | 3 | 25500 |  | 
-752 | Deflorator | legendary | 115 |  | 12 | 3 | 23500 |  | 
-753 | Deflorator | legendary | 115 |  | 15 | 3 | 26500 |  | 
-754 | Deflorator | legendary | 135 |  | 15 | 3 | 31000 |  | 
-755 | Deflorator | legendary | 124 |  | 12 | 3 | 25500 |  | 
-756 | Deflorator | legendary | 128 |  | 12 | 3 | 29500 |  | 
-757 | Deflorator | legendary | 113 | 26 | 15 | 3 | 25500 |  | 
-758 | Deflorator | legendary | 131 |  | 12 | 3 | 29000 |  | 
-759 | Deflorator | legendary | 135 |  | 15 | 3 | 26000 |  | 
-760 | Deflorator | legendary | 117 |  | 12 | 3 | 28000 |  | 
-761 | Deflorator | legendary | 128 |  | 15 | 3 | 33000 |  | 
-762 | Deflorator | legendary | 122 |  | 12 | 3 | 25500 |  | 
-763 | Deflorator | legendary | 117 |  | 12 | 3 | 26500 |  | 
-764 | Deflorator | legendary | 133 |  | 15 | 3 | 28000 |  | 
-765 | Deflorator | legendary | 126 | 26 | 12 | 3 | 27000 |  | 
-766 | Deflorator | legendary | 117 |  | 15 | 3 | 28500 |  | 
-767 | Deflorator | legendary | 135 |  | 15 | 3 | 30500 |  | 
-768 | Deflorator | legendary | 124 |  | 12 | 3 | 26000 |  | 
-769 | Deflorator | legendary | 119 |  | 12 | 3 | 30500 |  | 
-770 | Deflorator | legendary | 135 |  | 15 | 3 | 33000 |  | 
-771 | Deflorator | legendary | 135 | 23 | 12 | 3 | 28500 |  | 
-772 | Deflorator | legendary | 115 | 27 | 15 | 3 | 27000 |  | 
-773 | Deflorator | legendary | 113 |  | 12 | 3 | 25000 |  | 
-774 | Deflorator | legendary | 128 |  | 15 | 3 | 28000 |  | 
-775 | Deflorator | legendary | 128 |  | 15 | 3 | 29000 |  | 
-776 | Deflorator | legendary | 119 |  | 15 | 3 | 26000 |  | 
-777 | Deflorator | legendary | 113 |  | 15 | 3 | 27500 |  | 
-778 | Deflorator | legendary | 135 |  | 12 | 3 | 27000 |  | 
+740 | Deflo | legendary | 124 |  | 15 | 3 | 23500 |  | 
+741 | Deflo | legendary | 131 | 29 | 12 | 3 | 27000 |  | 
+742 | Deflo | legendary | 135 |  | 15 | 3 | 28000 |  | 
+743 | Deflo | legendary | 131 |  | 12 | 3 | 24500 |  | 
+744 | Deflo | legendary | 128 |  | 12 | 3 | 28500 |  | 
+745 | Deflo | legendary | 135 | 29 | 12 | 3 | 26000 |  | 
+746 | Deflo | legendary | 113 |  | 12 | 3 | 29500 |  | 
+747 | Deflo | legendary | 126 |  | 12 | 3 | 32000 |  | 
+748 | Deflo | legendary | 133 |  | 12 | 3 | 25000 |  | 
+749 | Deflo | legendary | 117 | 24 | 12 | 3 | 28000 |  | 
+750 | Deflo | legendary | 124 |  | 15 | 3 | 22500 |  | 
+751 | Deflo | legendary | 115 | 27 | 12 | 3 | 25500 |  | 
+752 | Deflo | legendary | 115 |  | 12 | 3 | 23500 |  | 
+753 | Deflo | legendary | 115 |  | 15 | 3 | 26500 |  | 
+754 | Deflo | legendary | 135 |  | 15 | 3 | 31000 |  | 
+755 | Deflo | legendary | 124 |  | 12 | 3 | 25500 |  | 
+756 | Deflo | legendary | 128 |  | 12 | 3 | 29500 |  | 
+757 | Deflo | legendary | 113 | 26 | 15 | 3 | 25500 |  | 
+758 | Deflo | legendary | 131 |  | 12 | 3 | 29000 |  | 
+759 | Deflo | legendary | 135 |  | 15 | 3 | 26000 |  | 
+760 | Deflo | legendary | 117 |  | 12 | 3 | 28000 |  | 
+761 | Deflo | legendary | 128 |  | 15 | 3 | 33000 |  | 
+762 | Deflo | legendary | 122 |  | 12 | 3 | 25500 |  | 
+763 | Deflo | legendary | 117 |  | 12 | 3 | 26500 |  | 
+764 | Deflo | legendary | 133 |  | 15 | 3 | 28000 |  | 
+765 | Deflo | legendary | 126 | 26 | 12 | 3 | 27000 |  | 
+766 | Deflo | legendary | 117 |  | 15 | 3 | 28500 |  | 
+767 | Deflo | legendary | 135 |  | 15 | 3 | 30500 |  | 
+768 | Deflo | legendary | 124 |  | 12 | 3 | 26000 |  | 
+769 | Deflo | legendary | 119 |  | 12 | 3 | 30500 |  | 
+770 | Deflo | legendary | 135 |  | 15 | 3 | 33000 |  | 
+771 | Deflo | legendary | 135 | 23 | 12 | 3 | 28500 |  | 
+772 | Deflo | legendary | 115 | 27 | 15 | 3 | 27000 |  | 
+773 | Deflo | legendary | 113 |  | 12 | 3 | 25000 |  | 
+774 | Deflo | legendary | 128 |  | 15 | 3 | 28000 |  | 
+775 | Deflo | legendary | 128 |  | 15 | 3 | 29000 |  | 
+776 | Deflo | legendary | 119 |  | 15 | 3 | 26000 |  | 
+777 | Deflo | legendary | 113 |  | 15 | 3 | 27500 |  | 
+778 | Deflo | legendary | 135 |  | 12 | 3 | 27000 |  | 
 779 |  | rare | 50 | 12 |  |  | 11000 | 5000 | 
 780 |  | free | 18 | 3 |  |  | 1375 |  | 1
 781 |  | vip | 23 | 2 |  |  | 2500 |  | 60
@@ -1652,7 +1652,7 @@
 1649 | 1 | adv1 | 20 | 4 |  |  | 1400 | 5250 | 1
 1650 |  | vid | 23 | 2 |  |  | 1375 |  | 2
 1651 | 1 | adv1 | 20 | 2 |  |  | 1400 |  | 1
-1652 | Mackiepaint | free | 23 | 2 |  |  | 1375 |  | 1
+1652 | Mackie | free | 23 | 2 |  |  | 1375 |  | 1
 1653 |  | rare | 54 | 12 |  |  | 9000 |  | 
 1654 |  | rare | 47 | 12 | 6 |  | 11000 | 5250 | 
 1655 |  | vid | 25 | 3 |  |  | 1250 |  | 2
