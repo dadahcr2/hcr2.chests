@@ -106,9 +106,10 @@ On completing the season (50k), the chest will start at level 1. The level of th
 
 ***Coins:*** Coins start at 5500 for Level 1 and increase by 500 for each additional level up to 105000 coins at level 200.
 
-***Parts:*** Parts awarded are random but do step up at specific levels.  Parts awarded are similar to the following chests:
-Level | Chest
-:--: | :-- 
+***Parts:*** Parts awarded are random but do step up at specific levels.  Parts awarded are similar to the following chests:  
+
+Level | Chest  
+:--: | :--   
 1-9 | **Common** (at least 18 common and 2 rare part) 
 10-19 | **Uncommon** (at least 29 common and 2 rare parts) 
 20-29 | **Rare** (at least 45 common and 6 rare parts) 
