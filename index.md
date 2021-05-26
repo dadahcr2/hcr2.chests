@@ -1,7 +1,5 @@
-  
-***
 
-* TOC
+* TOC  
 {:toc}
 
 ***
@@ -26,9 +24,9 @@ VIP | 3000 (2250-6000) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3) | 
 
 \* Please note that experience will vary based on number of customizations already owned as coins are increased for duplicate customizations  as follows: 1000 coins for a Common Customization, 2000 coins for Rare, 3000 coins for Epic, and 4000 coins for Legendary.
 
-These numbers may be updated as more data is collected.  The underlying data is available here: http://chest.hcr2.info
+These numbers may be updated as more data is collected.  The underlying data is available [here]  (./chestdata)
 
-#### Order of cup  chests
+#### Order of cup chests
 
 **Cup chests** have a specific sequence:
 
@@ -124,7 +122,8 @@ Level | Km | Coins =5000+500xLevel | Gems =10+Level | Common | Rare | Epic | Leg
 30-199 | 79-248 | 20000-104500 | 40-209 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 200 | 249+ | 105000 | 210 |  (68~90) |  (9~18) |  (6~9) | 10% (3)
 
-####Screenshots
+#### Screenshots
+
 Chest | At least  | Info
 :--: | :--: | :--:
 Common | ![](https://cdn.discordapp.com/attachments/806343355264401478/818595879002439711/image0.jpg) | ![](https://cdn.discordapp.com/attachments/806343355264401478/818595879573389343/image1.jpg)
@@ -140,5 +139,4 @@ Video | ![](https://cdn.discordapp.com/attachments/806343355264401478/8185989876
 
 [Chest Data](./chestdata.html)
 
-***
 
