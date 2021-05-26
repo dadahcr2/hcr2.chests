@@ -75,7 +75,7 @@ Rewards vary depending on the level of the chest at the end of the week. Teams s
 ***Parts:*** Parts awarded are random but do step up at specific levels.  Parts awarded are similar to the following chests:
 
 Level | Chest
--- | --
+:--: | :--
 1-2 | **Common** (at least 18 common and 2 rare part)
 3-5 | **Uncommon** (at least 29 common and 2 rare parts)
 6-9 | **Rare** (at least 45 common and 6 rare parts)
