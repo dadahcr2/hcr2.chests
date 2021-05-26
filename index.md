@@ -24,7 +24,7 @@ VIP | 3000 (2250-6000) |  22.6 (18-27) | 2.7 (2-6) | 0.06 (0-3) | 0.003 (0-3) | 
 
 \* Please note that experience will vary based on number of customizations already owned as coins are increased for duplicate customizations  as follows: 1000 coins for a Common Customization, 2000 coins for Rare, 3000 coins for Epic, and 4000 coins for Legendary.
 
-These numbers may be updated as more data is collected.  The underlying data is available [here]  (./chestdata)
+These numbers may be updated as more data is collected.  The underlying data is available [here](.\chestdata)
 
 #### Order of cup chests
 
@@ -53,7 +53,7 @@ Level | Chest
 
 The parts awarded differ for the hard maps (Intense City, Forest Trials, and Raging Winter):
 
-->Level<- | Chest
+Level | Chest
 :--: | :--
  1-5 | **Common** (at least 18 common and 2 rare parts)
  6+ | **Uncommon** (at least 29 common 2 rare parts)
@@ -137,6 +137,6 @@ Video | ![](https://cdn.discordapp.com/attachments/806343355264401478/8185989876
 
 #### Data  
 <a name="bottom"></a>
-[Chest Data](./chestdata.html)
+[Chest Data](.\chestdata.html)
 
 
