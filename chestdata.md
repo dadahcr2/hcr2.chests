@@ -1,5 +1,5 @@
 
-# | level | chest | common | rare | epic | legendary | coin | ad | gems  
+No. | level | chest | common | rare | epic | legendary | coin | ad | gems  
 :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--:  
 1 |  | rare | 50 | 12 |  |  | 10000 | 5000 |   
 2 | 5 | adv1 | 18 | 2 |  |  | 4000 | 5250 | 2
